@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PlanOfCharacteristicKindPredefinedItems" version="2.12">
+	<Item id="4ae1fe1d-8f2d-4b06-aecb-687598424523">
+		<Name>ODM</Name>
+		<Code>900010</Code>
+		<Description>ODM-модель</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a724b676-1776-47c7-aad5-6d5e0c1346bc">
+		<Name>Брэнд</Name>
+		<Code>000002</Code>
+		<Description>Брэнд</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="eb9e5549-f261-4db4-bdec-4a00cbe97d51">
+		<Name>ВидУслуги</Name>
+		<Code>900013</Code>
+		<Description>Вид услуги</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="ed38fd05-eb9e-483a-b76a-97a8c80c100d">
+		<Name>ГруппаКатегорий</Name>
+		<Code>900004</Code>
+		<Description>Группа категорий</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="19a5161e-5b76-4bcb-8998-d6eaa4eb85f8">
+		<Name>Изделие</Name>
+		<Code>000001</Code>
+		<Description>Изделие</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a7b25b3d-bda4-440b-9f27-d1bbe7d4de2a">
+		<Name>КаналПоставки</Name>
+		<Code>000005</Code>
+		<Description>Канал поставки</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6fd06fd3-abdf-48ad-9230-97cc9cae33ce">
+		<Name>КаналПродаж</Name>
+		<Code>900005</Code>
+		<Description>Канал продаж</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="98e86f9c-b2b7-48de-b953-c2db672f7b31">
+		<Name>Категория</Name>
+		<Code>000006</Code>
+		<Description>Категория</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="5ffcba46-c6fa-4b4c-9cca-a59b835ef138">
+		<Name>КГТ</Name>
+		<Code>900009</Code>
+		<Description>КГТ</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="69acb24d-cf4c-4bb9-8e29-bff244bb4fcb">
+		<Name>Кластер</Name>
+		<Code>000003</Code>
+		<Description>Кластер</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="75e257f7-4cc8-4364-9b19-05c973f7e84f">
+		<Name>Модель</Name>
+		<Code>900002</Code>
+		<Description>Модель</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a3a51c14-64be-4c43-8c72-b5f4da748c46">
+		<Name>НеобходимаФотография</Name>
+		<Code>900001</Code>
+		<Description>Необходима фотография</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="5715fcd4-3bb0-4586-be30-09253d5cd324">
+		<Name>ОблагаетсяНДС</Name>
+		<Code>900011</Code>
+		<Description>Облагается НДС</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="a7863522-f3cd-4bc8-9876-becd7b0d457c">
+		<Name>ПолнаяСтоимость</Name>
+		<Code>900012</Code>
+		<Description>Полная стоимость</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="674858e8-6774-455b-9296-bb2abcd73450">
+		<Name>СерияГСБПроизводства</Name>
+		<Code>000007</Code>
+		<Description>Серия ГСБ Производства</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="3499bac1-016a-48a9-9c67-adfc7e23f2e8">
+		<Name>СтатусЖизненногоЦикла</Name>
+		<Code>000004</Code>
+		<Description>Статус жизненного цикла</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="401fa7a0-34d7-4392-a609-10b040103a49">
+		<Name>ТипВыкладки</Name>
+		<Code>900007</Code>
+		<Description>Тип выкладки</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="1b464876-ad47-4034-ad44-8a3a1f6a564c">
+		<Name>Цвет</Name>
+		<Code>900003</Code>
+		<Description>Цвет</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="d621192b-3bef-4cc2-8d02-ffa758a78e83">
+		<Name>ЦеновойСегмент</Name>
+		<Code>900008</Code>
+		<Description>Ценовой сегмент</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="68c4a138-2840-490a-ae45-b6045c2d01eb">
+		<Name>ЯндексКатегория</Name>
+		<Code>900014</Code>
+		<Description>Яндекс категория</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="80b74377-fab8-438b-a1ac-ab4ed98210a4">
+		<Name>ЯндексМодель</Name>
+		<Code>900015</Code>
+		<Description>Яндекс модель</Description>
+		<Type>
+			<v8:Type xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:CatalogRef.КлассификаторХарактеристикТовара</v8:Type>
+		</Type>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
