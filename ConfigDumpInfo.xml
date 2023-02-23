@@ -182,8 +182,8 @@
 		<Metadata name="InformationRegister.ХарактеристикиТоваров.ManagerModule" id="0476e083-7dec-42dc-88e2-25560a62b524.2" configVersion="fe9be368291e48478e6047afcd3283ba00000000"/>
 		<Metadata name="InformationRegister.ХарактеристикиТоваров.RecordSetModule" id="0476e083-7dec-42dc-88e2-25560a62b524.1" configVersion="1d77a6438230bb448b1d3dff842e690b00000000"/>
 		<Metadata name="Language.Русский" id="4b7ac709-c5a8-4a61-bd78-2079bfa83c02" configVersion="58cd8eb189a3cb45bcb1bc40a19d8f5f00000000"/>
-		<Metadata name="Report.ПроданоНаФилиалах" id="ecf709b2-1dda-45db-b29a-51a42e9ea97d" configVersion="8399b8859135184789f54f55a82b78a300000000"/>
-		<Metadata name="Report.ПроданоНаФилиалах.ObjectModule" id="ecf709b2-1dda-45db-b29a-51a42e9ea97d.0" configVersion="9721ad60391e0c4cbd1ea0ac74907e3b00000000"/>
+		<Metadata name="Report.ПроданоНаФилиалах" id="ecf709b2-1dda-45db-b29a-51a42e9ea97d" configVersion="89894bf980990f488fe1235c4f9bd1da00000000"/>
+		<Metadata name="Report.ПроданоНаФилиалах.ObjectModule" id="ecf709b2-1dda-45db-b29a-51a42e9ea97d.0" configVersion="8025ae526d974e40a37b3e4a54fc53c700000000"/>
 		<Metadata name="Report.ПроданоНаФилиалах.Template.ОсновнаяСхемаКомпоновкиДанных" id="7fef99e7-c22f-458f-bd97-5e3661e876fd" configVersion="62156f46d3239345a7afd91e5696728600000000"/>
 		<Metadata name="Report.ПроданоНаФилиалах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7fef99e7-c22f-458f-bd97-5e3661e876fd.0" configVersion="c4456aa57138da4bbc9acf0a51424f2200000000"/>
 		<Metadata name="Subsystem.Документы" id="23ad055f-83f4-494d-b6aa-bf37a0345ef2" configVersion="d9efd244b140c2418506de6f56b99b3b00000000"/>
