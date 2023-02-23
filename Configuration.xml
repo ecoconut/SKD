@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>5dfd676f-29f5-4e26-9272-94b85d9dc906</xr:ObjectId>
+				<xr:ObjectId>39e44175-abe2-4dae-9cb7-52830c753d2d</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -218,7 +218,6 @@
 			<Subsystem>Документы</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
 			<Subsystem>НСИ</Subsystem>
-			<Role>ПолныеПрава</Role>
 			<CommonTemplate>ИсторияЦен</CommonTemplate>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Фирмы</Catalog>
