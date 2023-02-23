@@ -71,7 +71,7 @@
 		<Metadata name="ChartOfCharacteristicTypes.ВидыХарактеристикТовара.Predefined" id="ee6191f6-ceed-4ef8-9909-9f04c44db5bc.7" configVersion="1790ac884c53d24da58d2b91f6e70f2800000000"/>
 		<Metadata name="CommonTemplate.ИсторияЦен" id="90616ea7-7508-4174-96e5-72f633618747" configVersion="498a8844902c4149b3bc0a5968218a0200000000"/>
 		<Metadata name="CommonTemplate.ИсторияЦен.Template" id="90616ea7-7508-4174-96e5-72f633618747.0" configVersion="da6e1ca37d8893428ea90d617fdc115800000000"/>
-		<Metadata name="Configuration.СКД" id="fe6142da-53ae-411c-ae86-c7d18ea3ae92" configVersion="3b81efb8d769624a9c652ec14977331500000000"/>
+		<Metadata name="Configuration.СКД" id="fe6142da-53ae-411c-ae86-c7d18ea3ae92" configVersion="9dff3e441bfa8a49b61c2dc59b00c5b600000000"/>
 		<Metadata name="Configuration.СКД.CommandInterface" id="aed7f266-c862-4ec4-9414-a5e4eeddde7c.a" configVersion="72246d6321a1754682bbd35970e87de600000000"/>
 		<Metadata name="Document.БанковскиеПлатежи" id="b872cb28-65d9-4bfb-bda8-92edcd733a0a" configVersion="6e834701f1571a48ab389a6b22421ece00000000">
 			<Metadata name="Document.БанковскиеПлатежи.Attribute.ЮрЛицо" id="25cfa6b4-0709-4c2c-91dc-daf0dbd7fd2e"/>
@@ -186,6 +186,8 @@
 		<Metadata name="Report.ПроданоНаФилиалах.ObjectModule" id="ecf709b2-1dda-45db-b29a-51a42e9ea97d.0" configVersion="21a266cfaa685e4ba6a4f6a1a7ffab9b00000000"/>
 		<Metadata name="Report.ПроданоНаФилиалах.Template.ОсновнаяСхемаКомпоновкиДанных" id="7fef99e7-c22f-458f-bd97-5e3661e876fd" configVersion="62156f46d3239345a7afd91e5696728600000000"/>
 		<Metadata name="Report.ПроданоНаФилиалах.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="7fef99e7-c22f-458f-bd97-5e3661e876fd.0" configVersion="c4456aa57138da4bbc9acf0a51424f2200000000"/>
+		<Metadata name="Role.ПолныеПрава" id="670acdb2-539c-4aea-b33f-3bec89d2932c" configVersion="c72a247fd3818242a0c982830dd022b800000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="670acdb2-539c-4aea-b33f-3bec89d2932c.0" configVersion="5bb6d0db710485428393085e0068a74c00000000"/>
 		<Metadata name="Subsystem.Документы" id="23ad055f-83f4-494d-b6aa-bf37a0345ef2" configVersion="d9efd244b140c2418506de6f56b99b3b00000000"/>
 		<Metadata name="Subsystem.НСИ" id="36cc8623-1be9-4bc8-b359-d82222a22fc8" configVersion="6b0074e98ebf4a4f982716f206789f1e00000000"/>
 		<Metadata name="Subsystem.НСИ.Subsystem.ПВХ" id="c01a5308-a79b-48d0-b2c0-73c7c67f06fa" configVersion="5018004b88bc324bb38b3bfd1cb4fc2b00000000"/>

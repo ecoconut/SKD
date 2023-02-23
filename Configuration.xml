@@ -218,6 +218,7 @@
 			<Subsystem>Документы</Subsystem>
 			<Subsystem>Отчеты</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<Role>ПолныеПрава</Role>
 			<CommonTemplate>ИсторияЦен</CommonTemplate>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Фирмы</Catalog>
